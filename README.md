@@ -46,7 +46,7 @@ This project showcases a full ML workflow, from **data preprocessing** to **depl
 
 ### 6. Evaluation
 - Accuracy: ~82.7%  
-- ROC-AUC: ~0.84  
+- ROC-AUC: ~0.85  
 - F1-score (Survived): 0.78  
 - Confusion Matrix:
 
@@ -72,7 +72,7 @@ This project showcases a full ML workflow, from **data preprocessing** to **depl
 | Accuracy | 0.8268 | 0.8268 |
 | Recall (Survived) | 0.70 | 0.78 ✅ improved |
 | F1-score (Survived) | 0.76 | 0.78 ✅ improved |
-| ROC-AUC | 0.84 | 0.84 |
+| ROC-AUC | 0.84 | 0.85 |
 
 **Key Insights:**  
 - Females and first-class passengers had higher survival rates  
