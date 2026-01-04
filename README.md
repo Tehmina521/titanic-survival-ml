@@ -77,15 +77,13 @@ Predicting Titanic passenger survival using **feature engineering**, **Random Fo
 
 ---
 
-## Single Passenger Prediction
-```python
-from titanic_model_pipeline import predict_single_passenger
+## ▶️ How to Run
 
-sample = {
-    'Pclass': 1, 'Sex':'female', 'Age':29, 'Fare':72.5,
-    'Embarked':'C','FamilySize':1,'IsAlone':1,
-    'FarePerPerson':72.5, 'Title':'Miss', 'AgeBin':'Adult'
-}
-
-result = predict_single_passenger(sample)
-print(result)
+1. Clone this repository
+    ```bash
+   git clone https://github.com/Tehmina521/titanic-survival-ml.git
+2. Navigate into the folder
+   *cd titanic-survival-ml*
+3. Open the notebook in 
+**jupyter notebook**
+4. Run the cells step by step to reproduce the analysis and results.
