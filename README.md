@@ -1,6 +1,7 @@
 # 🚢 Titanic Survival Prediction
 
-Predicting Titanic passenger survival using **feature engineering**, **Random Forest**, and **threshold-tuned machine learning**. This project demonstrates a complete ML workflow from **data preprocessing** to **deployment-ready predictions**.
+Predicting Titanic passenger survival using **feature engineering**, a **Random Forest model**, and **optimized probability thresholds**.  
+This project showcases a full ML workflow, from **data preprocessing** to **deployment-ready predictions**.
 
 ---
 
