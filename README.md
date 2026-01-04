@@ -49,15 +49,18 @@ Predicting Titanic passenger survival using **feature engineering**, **Random Fo
 - F1-score (Survived): 0.78  
 - Confusion Matrix:
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](<img width="607" height="431" alt="Screenshot (842)" src="https://github.com/user-attachments/assets/05497b30-d95c-43b2-a505-5495266d3f22" />
+.png)
 
 - ROC Curve:
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](<img width="641" height="438" alt="Screenshot (843)" src="https://github.com/user-attachments/assets/cd192b1d-81d3-4c3f-b961-d59bb1b9fb01" />
+.png)
 
 - Feature Importance:
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](<img width="705" height="405" alt="Screenshot (844)" src="https://github.com/user-attachments/assets/1cc49d94-f953-4664-8aa0-8d0fe76048b3" />
+.png)
 
 ---
 
