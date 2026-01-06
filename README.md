@@ -85,24 +85,6 @@ The Titanic disaster dataset is used to answer the question:
 
 ---
 
----
-
-## Performance Summary
-
-| Metric | Default Threshold (0.5) | Tuned Threshold (0.44) |
-|--------|------------------------|-----------------------|
-| Accuracy | 0.8268 | 0.8268 |
-| Recall (Survived) | 0.70 | 0.78 ✅ improved |
-| F1-score (Survived) | 0.76 | 0.78 ✅ improved |
-| ROC-AUC | 0.84 | 0.85 |
-
-**Key Insights:**  
-- Females and first-class passengers had higher survival rates  
-- Small families survived better than alone passengers  
-- Young boys (`Master`) and unmarried women (`Miss`) had higher survival probability  
-
----
-
 ## ▶️ How to Run
 
 1. Clone this repository
