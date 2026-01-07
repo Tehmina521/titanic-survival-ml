@@ -79,7 +79,7 @@ The Titanic disaster dataset is used to answer the question:
 
 ## Tech Stack
 - **Language:** Python 3.x  
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, joblib  
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
 - **Model:** Random Forest Classifier  
 - **Environment:** Jupyter Notebook  
 
