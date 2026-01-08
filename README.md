@@ -97,3 +97,10 @@ pip install -r requirements.txt
 3. Open the notebook in 
 **jupyter notebook**
 4. Run the cells step by step to reproduce the analysis and results.
+---
+
+## 👩‍💻 Author
+
+Tehmina Afzal
+AI/ML Intern – SkillLink Nexus Ltd
+  
