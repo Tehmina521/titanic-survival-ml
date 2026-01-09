@@ -70,10 +70,10 @@ The Titanic disaster dataset is used to answer the question:
 ---
 
 ## Results
-- **Validation Accuracy:** ~83–84%  
-- **F1 Score:** ~0.79–0.82 for survivors  
+- **Validation Accuracy:** ~84%  
+- **F1 Score:** ~0.79 for survivors  
 - **Top Features:**
-  - `Age`, `Title`, `Sex`
+  - `Age`, `Title`, `Gender`
 
 ---
 
